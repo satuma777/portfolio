@@ -1,0 +1,7 @@
+<div class="row section topspace">
+    <div class="col-md-12">
+        {{ range where .Data.Pages "Section" "introduction" }}
+            <div class="lead text-center text-muted"> {{ .Content }} </div>
+        {{ end }}
+    </div>
+</div> <!-- / section -->

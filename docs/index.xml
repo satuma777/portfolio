@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shota Saito&#39;s portfolio on Shota Saito</title>
+    <link>http://satuma-portfolio.xyz/</link>
+    <description>Recent content in Shota Saito&#39;s portfolio on Shota Saito</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>CJK</language>
+    <lastBuildDate>Sat, 01 Sep 2018 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://satuma-portfolio.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamic Feature Construction for Neural Networks Using Probabilistic Model-Based Genetic Programming</title>
+      <link>http://satuma-portfolio.xyz/papers/5/</link>
+      <pubDate>Sat, 01 Sep 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/papers/5/</guid>
+      <description>&lt;p&gt;Hirokazu Kobayashi, &lt;strong&gt;Shota Saito&lt;/strong&gt;, Shinichi Shirakawa: &amp;ldquo;Dynamic Feature Construction for Neural Networks Using Probabilistic Model-Based Genetic Programming&amp;rdquo;, 2018 JPNSEC International Workshop on Evolutionary Computation, Shenzhen, China (2018).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introducing a Penalty Term to Control Structure Complexity in Dynamic Optimization of Neural Network Structures</title>
+      <link>http://satuma-portfolio.xyz/papers/4/</link>
+      <pubDate>Fri, 31 Aug 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/papers/4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Shota Saito&lt;/strong&gt;, Shinichi Shirakawa: &amp;ldquo;Introducing a Penalty Term to Control Structure Complexity in Dynamic Optimization of Neural Network Structures&amp;rdquo;, 2018 JPNSEC International Workshop on Evolutionary Computation, Shenzhen, China (2018).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Embedded Feature Selection Using Probabilistic Model-Based Optimization</title>
+      <link>http://satuma-portfolio.xyz/papers/3/</link>
+      <pubDate>Wed, 01 Aug 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/papers/3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Shota Saito&lt;/strong&gt;, Shinichi Shirakawa, Youhei Akimoto: &amp;ldquo;Embedded Feature Selection Using Probabilistic Model-Based Optimization&amp;rdquo;, Student Workshop in Genetic and Evolutionary Computation Conference 2018 (GECCO 2018) , Kyoto, Japan, 15th-19th July (2018). (&lt;strong&gt;Best student paper nominated&lt;/strong&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Information Geometric Optimizationを⽤いた埋め込み型特徴選択</title>
+      <link>http://satuma-portfolio.xyz/papers/2/</link>
+      <pubDate>Sun, 31 Dec 2017 12:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/papers/2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;斉藤翔汰&lt;/strong&gt;，白川真一：Information Geometric Optimizationを⽤いた埋め込み型特徴選択，進化計算シンポジウム2017，pp.77-84 (2017).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>適応的ノイズ分布を導入したDeep Neural Networkのための学習法</title>
+      <link>http://satuma-portfolio.xyz/papers/1/</link>
+      <pubDate>Fri, 31 Mar 2017 12:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/papers/1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;斉藤翔汰&lt;/strong&gt;，白川真一：適応的ノイズ分布を導入したDeep Neural Networkのための学習法，計測自動制御学会 システム・情報部門 第56回システム工学部会研究会，pp.26-32 (2017).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>http://satuma-portfolio.xyz/slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/slides/</guid>
+      <description>イベント発表など  2018/04/13の新ラボ生向けチュートリアルで使用したスライド 
+ 第二回Shot A Talkで使用したスライド 
+  論文紹介  2018/05/08の論文紹介ゼミで使用したスライド(一部改編) H. Cai, T. Chen, W. Zhang, Y. Yu, and J. Wang, “Efficient Architecture Search by Network Transformation,” in Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18), 2018. https://arxiv.org/abs/1707.04873 
+ 2017/10/06の論文紹介ゼミで使用したスライド(一部改編)
+ Z. Xu, G. Huang, K. Q. Weinberger, and A. X. Zheng, &amp;ldquo;Gradient boosted feature selection&amp;rdquo;, Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining - KDD ’14, pp.</description>
+    </item>
+    
+    <item>
+      <title>awards &amp; scholarship</title>
+      <link>http://satuma-portfolio.xyz/award/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/award/awards/</guid>
+      <description> Awards  進化計算コンペティション2017　産業界で使える進化計算とは?  単目的部門 第2位 (内田絢斗，斉藤翔汰，白川真一：横浜国立大学) 多目的部門 第3位 (斉藤翔汰，内田絢斗，白川真一：横浜国立大学)   Scholarship  2018：夢＆環境支援宮崎記念基金 給与奨学生（公募） 2018：林レオロジー記念財団 給与奨学生 2016：日揮・実吉奨学会奨学生（日本人向け給与奨学金）  </description>
+    </item>
+    
+    <item>
+      <title>experience &amp; certifications</title>
+      <link>http://satuma-portfolio.xyz/experiments/experiments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/experiments/experiments/</guid>
+      <description> Work experience  2016.10 ~ Now：横浜国立大学 研究支援員 2018.05 ~ 2018.09：株式会社インフォメティス 研究開発インターン 2018.04 ~ 2018.08：横浜国立大学 2018年度 理工学部専門講義「プログラミング演習I」ティーチング・アシスタント(TA) 2017.10 ~ 2018.03：横浜国立大学 2017年度 理工学部専門講義「プログラミング演習II」ティーチング・アシスタント(TA) 2015.10 ~ 2018.03：株式会社シェークハンズ エンジニアインターン  Certifications For Education  中学校教諭一種免許状（数学）2017年3月取得 高等学校教諭一種免許状（数学）2017年3月取得 高等学校教諭一種免許状（情報）2017年3月取得  For Engineering  Japan Deep Learning Association (JDLA) Deep Learning for GENERAL 2018年6月合格 応用情報技術者試験 2015年10月合格 基本情報技術者試験 2014年10月合格 第二級陸上特殊無線士 2015年4月取得 第二級海上特殊無線士 2015年4月取得 エックス線作業主任者 2012年12月取得  Others  普通自動車免許 2015年3月取得  </description>
+    </item>
+    
+    <item>
+      <title>introduction</title>
+      <link>http://satuma-portfolio.xyz/introduction/1_intro_main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/introduction/1_intro_main/</guid>
+      <description>I&amp;rsquo;m Shota Saito and a master&amp;rsquo;s course student at Yokohama National University in Japan. I&amp;rsquo;m interested in Machine Learning (especially Deep Neural Network) and Evolutionary Computation, and have been focused on Hyper-paramater Optimization and Neural Architecture Search. In general, exploring the best hyper-paramater and architecture need huge computational costs, respectively. My research aim to develop efficient hyper-paramter (or architecture of neural network) optimization method.</description>
+    </item>
+    
+    <item>
+      <title>introduction</title>
+      <link>http://satuma-portfolio.xyz/introduction/1_intro_main.ja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/introduction/1_intro_main.ja/</guid>
+      <description>横浜国立大学修士2年の斉藤翔汰です． 機械学習（特に深層学習） と 進化計算 に関する研究に従事しており，特に ハイパーパラメータ最適化 と ニューラルネットワークの構造最適化 に強い興味があります．一般的に，ハイパーパラメータや構造の探索には多大なコストを要します．そこで，効率的なハイパーパラメータ（あるいは構造）最適化アルゴリズムの開発 を目標として，研究を進めています．</description>
+    </item>
+    
+    <item>
+      <title>修士（修了見込み）</title>
+      <link>http://satuma-portfolio.xyz/service/3_master.ja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/service/3_master.ja/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2017.4 ~ Now：&lt;a href=&#34;http://www.eis.ynu.ac.jp/category01/academic/media.html&#34;&gt;横浜国立大学大学院 環境情報学府 情報メディア環境学専攻 情報メディア学コース&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;指導教員：&lt;a href=&#34;http://shiralab.ynu.ac.jp/shirakawa/&#34;&gt;白川真一&lt;/a&gt; 講師&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>学士（工学）</title>
+      <link>http://satuma-portfolio.xyz/service/2_bachelor.ja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/service/2_bachelor.ja/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2015.3 ~ 2017.3：横浜国立大学 理工学部 数物・電子情報系学科 情報工学EP&lt;/li&gt;
+&lt;li&gt;卒業研究指導教員：&lt;a href=&#34;http://shiralab.ynu.ac.jp/shirakawa/&#34;&gt;白川真一&lt;/a&gt; 講師&lt;/li&gt;
+&lt;li&gt;卒業研究タイトル：適応的ノイズ分布を導入したDeep Neural Networkのための学習法&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>準学士（工学）</title>
+      <link>http://satuma-portfolio.xyz/service/1_associate_degree.ja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/service/1_associate_degree.ja/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2010.4 ~ 2015.3：茨城工業高等専門学校 電子情報工学科&lt;/li&gt;
+&lt;li&gt;卒業研究指導教員：&lt;a href=&#34;https://researchmap.jp/horai/&#34;&gt;蓬莱尚幸&lt;/a&gt; 教授&lt;/li&gt;
+&lt;li&gt;卒業研究タイトル：拡張現実技術を使用した技術習得支援システム&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

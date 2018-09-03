@@ -1,0 +1,78 @@
+theme = "hugo-initio"
+baseURL = "http://satuma-portfolio.xyz/"
+languageCode = "CJK"
+title = "Shota Saito"
+publishDir = "docs"
+
+[params]
+    name = "Shota Saito"
+    description = "Master's course student at Yokohama National University"
+    description2 = "Deep Neural Network / Machine Learning / Evolutionary Computation / Python / Chainer"
+    email = "saito-shota-bt☆ynu.jp (☆→@)"
+    year = 2018
+    background = ""
+    favicon = "images/favicon-96x96.png"
+    DateForm = "January 2, 2006"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownload = false
+    showClients = true
+
+    footerEnableContact = false
+    footerEnableFollowme = true
+    footerEnableTextWidget = false
+    footerEnableFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "slides"
+    url = "/slides"
+    weight = 2
+[[menu.main]]
+    name = "blog"
+    url = "http://satuma-portfolio.hateblo.jp/"
+    weight = 3
+
+# [params.disqus]
+#     site = "hugo-initio-site.disqus.com"
+#
+# [params.sharethis]
+#     property = "123456789012345678901234"
+#     custom = true
+#
+# [params.google.analytics]
+#     trackerID = "GA-000000000-0"
+
+[[params.social]]
+    title = "facebook"
+    url = "https://www.facebook.com/shota.saito.3781"
+    icon = "fa-facebook-square"
+    footer = true
+    sharethis = false
+    network = "facebook"
+[[params.social]]
+    title = "twitter"
+    url = "https://twitter.com/argv_sat184"
+    icon = "fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+    title = "github"
+    url = "https://github.com/satuma777"
+    icon = "fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+    title = "booklog"
+    url = "https://booklog.jp/users/satuma777"
+    icon = "fa-book"
+    footer = true
+    sharethis = true
+    network = ""

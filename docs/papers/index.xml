@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers on Shota Saito</title>
+    <link>http://satuma-portfolio.xyz/papers/</link>
+    <description>Recent content in Papers on Shota Saito</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>CJK</language>
+    <lastBuildDate>Sat, 01 Sep 2018 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://satuma-portfolio.xyz/papers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamic Feature Construction for Neural Networks Using Probabilistic Model-Based Genetic Programming</title>
+      <link>http://satuma-portfolio.xyz/papers/5/</link>
+      <pubDate>Sat, 01 Sep 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/papers/5/</guid>
+      <description>&lt;p&gt;Hirokazu Kobayashi, &lt;strong&gt;Shota Saito&lt;/strong&gt;, Shinichi Shirakawa: &amp;ldquo;Dynamic Feature Construction for Neural Networks Using Probabilistic Model-Based Genetic Programming&amp;rdquo;, 2018 JPNSEC International Workshop on Evolutionary Computation, Shenzhen, China (2018).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introducing a Penalty Term to Control Structure Complexity in Dynamic Optimization of Neural Network Structures</title>
+      <link>http://satuma-portfolio.xyz/papers/4/</link>
+      <pubDate>Fri, 31 Aug 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/papers/4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Shota Saito&lt;/strong&gt;, Shinichi Shirakawa: &amp;ldquo;Introducing a Penalty Term to Control Structure Complexity in Dynamic Optimization of Neural Network Structures&amp;rdquo;, 2018 JPNSEC International Workshop on Evolutionary Computation, Shenzhen, China (2018).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Embedded Feature Selection Using Probabilistic Model-Based Optimization</title>
+      <link>http://satuma-portfolio.xyz/papers/3/</link>
+      <pubDate>Wed, 01 Aug 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/papers/3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Shota Saito&lt;/strong&gt;, Shinichi Shirakawa, Youhei Akimoto: &amp;ldquo;Embedded Feature Selection Using Probabilistic Model-Based Optimization&amp;rdquo;, Student Workshop in Genetic and Evolutionary Computation Conference 2018 (GECCO 2018) , Kyoto, Japan, 15th-19th July (2018). (&lt;strong&gt;Best student paper nominated&lt;/strong&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Information Geometric Optimizationを⽤いた埋め込み型特徴選択</title>
+      <link>http://satuma-portfolio.xyz/papers/2/</link>
+      <pubDate>Sun, 31 Dec 2017 12:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/papers/2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;斉藤翔汰&lt;/strong&gt;，白川真一：Information Geometric Optimizationを⽤いた埋め込み型特徴選択，進化計算シンポジウム2017，pp.77-84 (2017).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>適応的ノイズ分布を導入したDeep Neural Networkのための学習法</title>
+      <link>http://satuma-portfolio.xyz/papers/1/</link>
+      <pubDate>Fri, 31 Mar 2017 12:00:00 +0000</pubDate>
+      
+      <guid>http://satuma-portfolio.xyz/papers/1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;斉藤翔汰&lt;/strong&gt;，白川真一：適応的ノイズ分布を導入したDeep Neural Networkのための学習法，計測自動制御学会 システム・情報部門 第56回システム工学部会研究会，pp.26-32 (2017).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

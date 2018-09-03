@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="author"      content="Sergey Pozhilov (GetTemplate.com)">
+
+	<title>Embedded Feature Selection Using Probabilistic Model-Based Optimization</title>
+
+	<link rel="shortcut icon" href="http://satuma-portfolio.xyz/images/favicon-96x96.png">
+
+	
+	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
+	
+	<link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+	
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
+	
+	<link rel="stylesheet" href="http://satuma-portfolio.xyz/css/styles.css">
+
+	
+
+    
+        <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=&product=inline-share-buttons"></script>
+    
+
+</head>
+<body class="home">
+
+<header id="header">
+	
+    <div id="head">
+		<h1 id="logo" class="text-center">
+			<img class="img-circle" src="http://satuma-portfolio.xyz/images/icon.jpg" alt="">
+			<span class="title">Shota Saito</span>
+			<span class="tagline">Master&#39;s course student at Yokohama National University<br>Deep Neural Network / Machine Learning / Evolutionary Computation / Python / Chainer<br>
+				<a href="">saito-shota-bt☆ynu.jp (☆→@)</a>
+            </span>
+		</h1>
+	</div>
+
+    <nav class="navbar navbar-default navbar-sticky">
+    <div class="container-fluid">
+
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="true">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+
+        <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
+
+            <ul class="nav navbar-nav">
+                
+                <li>
+                    <a href="/">home</a>
+                </li>
+                
+                <li>
+                    <a href="/slides">slides</a>
+                </li>
+                
+                <li>
+                    <a href="http://satuma-portfolio.hateblo.jp/">blog</a>
+                </li>
+                
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+
+</header>
+
+
+<main id="main">
+
+	<div class="container">
+
+		<div class="row topspace">
+			<div class="col-sm-8 col-sm-offset-2">
+
+ 				<article class="post">
+					<header class="entry-header">
+ 						<h1 class="entry-title"><a href="http://satuma-portfolio.xyz/papers/3/" rel="bookmark">Embedded Feature Selection Using Probabilistic Model-Based Optimization</a></h1>
+					</header>
+					<div class="entry-content">
+						<p><strong>Shota Saito</strong>, Shinichi Shirakawa, Youhei Akimoto: &ldquo;Embedded Feature Selection Using Probabilistic Model-Based Optimization&rdquo;, Student Workshop in Genetic and Evolutionary Computation Conference 2018 (GECCO 2018) , Kyoto, Japan, 15th-19th July (2018). (<strong>Best student paper nominated</strong>)</p>
+
+<p></p>
+
+<h2 id="abstract">Abstract</h2>
+
+<p>In machine learning, feature selection is a commonly used technique for improving the predictive performance and interpretability of a trained model. Feature selection techniques are classified into three approaches: the filter, wrapper, and embedded approaches. The embedded approach performs the feature selection process during the model training and achieves a good balance between performance and computational cost in general. In the paper, we propose a novel embedded feature selection method using probabilistic model-based evolutionary optimization. We introduce the multivariate Bernoulli distribution, which determines the selection of features, and we optimize its parameters during the training. The distribution parameter update rule is the same as that of the population-based incremental learning (PBIL), but we simultaneously update the parameters of the machine learning model using an ordinary gradient descent method. This method can be easily implemented into non-linear models, such as neural networks. Moreover, we incorporate the penalty term into the objective function to control the number of selected feature. We apply the proposed method with the neural network model to the feature selection of three classification problems. The proposed method achieves competitive performance and reasonable computational cost compared with conventional feature selection methods.</p>
+
+<h2 id="paper">Paper</h2>
+
+<ul>
+<li><a href="https://dl.acm.org/citation.cfm?id=3205651.3208227">The ACM Digital Library</a></li>
+<li><a href="https://www.researchgate.net/publication/326236848_Embedded_feature_selection_using_probabilistic_model-based_optimization">ResearchGate</a></li>
+</ul>
+
+<h2 id="citation">Citation</h2>
+
+<pre><code>@inproceedings{Saito2018,
+    author = {Saito, Shota and Shirakawa, Shinichi and Akimoto, Youhei},
+    title = {Embedded Feature Selection Using Probabilistic Model-based Optimization},
+    booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference Companion},
+    series = {GECCO '18},
+    year = {2018},
+    isbn = {978-1-4503-5764-7},
+    location = {Kyoto, Japan},
+    pages = {1922--1925},
+    numpages = {4},
+    url = {http://doi.acm.org/10.1145/3205651.3208227},
+    doi = {10.1145/3205651.3208227},
+    acmid = {3208227},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    keywords = {embedded approach, feature selection, information geometric optimization, natural gradient, neural network},
+}
+</code></pre>
+					</div>
+				</article>
+
+			</div>
+		</div> 
+
+        <div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
+
+				<div id="share">
+                    
+				</div>
+			</div>
+		</div> 
+		<div class="clearfix"></div>
+
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
+
+				<div id="comments">
+                    
+				</div>
+			</div>
+		</div> 
+		<div class="clearfix"></div>
+
+	</div>	
+
+</main>
+
+<footer id="footer">
+	<div class="container">
+		<div class="row">
+			
+
+			
+			<div class="col-md-3 widget">
+				<h3 class="widget-title">Follow me</h3>
+				<div class="widget-body">
+					<p class="follow-me-icons">
+                        
+                            
+                                <a href="https://www.facebook.com/shota.saito.3781" target="_blank"><i class="fa fa-facebook-square fa-2"></i></a>
+                            
+                        
+                            
+                                <a href="https://twitter.com/argv_sat184" target="_blank"><i class="fa fa-twitter-square fa-2"></i></a>
+                            
+                        
+                            
+                                <a href="https://github.com/satuma777" target="_blank"><i class="fa fa-github fa-2"></i></a>
+                            
+                        
+                            
+                                <a href="https://booklog.jp/users/satuma777" target="_blank"><i class="fa fa-book fa-2"></i></a>
+                            
+                        
+					</p>
+				</div>
+			</div>
+			
+
+			
+
+			
+
+		</div> 
+	</div>
+</footer>
+
+<footer id="underfooter">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-md-6 widget">
+				<div class="widget-body">
+					<p></p>
+				</div>
+			</div>
+
+			<div class="col-md-6 widget">
+				<div class="widget-body">
+					<p class="text-right">
+						Copyright &copy; 2018, Shota Saito<br>
+						Design: <a href="http://www.gettemplate.com" rel="designer">Initio by GetTemplate</a> - 
+                        Powered by: <a href="https://gohugo.io/" rel="poweredby">Hugo</a>
+                    </p>
+				</div>
+			</div>
+
+		</div> 
+	</div>
+</footer>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+<script src="http://satuma-portfolio.xyz/js/template.js"></script>
+<script id="dsq-count-scr" src="///count.js" async></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>
+
