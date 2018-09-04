@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Shota Saito</title>
-    <link>http://satuma-portfolio.xyz/categories/</link>
+    <link>https://satuma-portfolio.xyz/categories/</link>
     <description>Recent content in Categories on Shota Saito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>CJK</language>
     
-	<atom:link href="http://satuma-portfolio.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://satuma-portfolio.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
