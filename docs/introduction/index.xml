@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introductions on Shota Saito</title>
-    <link>https://satuma-portfolio.xyz/introduction/</link>
+    <link>http://satuma-portfolio.xyz/introduction/</link>
     <description>Recent content in Introductions on Shota Saito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>CJK</language>
     
-	<atom:link href="https://satuma-portfolio.xyz/introduction/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://satuma-portfolio.xyz/introduction/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>introduction</title>
-      <link>https://satuma-portfolio.xyz/introduction/1_intro_main/</link>
+      <link>http://satuma-portfolio.xyz/introduction/1_intro_main/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://satuma-portfolio.xyz/introduction/1_intro_main/</guid>
+      <guid>http://satuma-portfolio.xyz/introduction/1_intro_main/</guid>
       <description>I&amp;rsquo;m Shota Saito and a master&amp;rsquo;s course student at Yokohama National University in Japan. I&amp;rsquo;m interested in Machine Learning (especially Deep Neural Network) and Evolutionary Computation, and have been focused on Hyper-paramater Optimization and Neural Architecture Search. In general, exploring the best hyper-paramater and architecture need huge computational costs, respectively. My research aim to develop efficient hyper-paramter (or architecture of neural network) optimization method.</description>
     </item>
     
     <item>
       <title>introduction</title>
-      <link>https://satuma-portfolio.xyz/introduction/1_intro_main.ja/</link>
+      <link>http://satuma-portfolio.xyz/introduction/1_intro_main.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://satuma-portfolio.xyz/introduction/1_intro_main.ja/</guid>
+      <guid>http://satuma-portfolio.xyz/introduction/1_intro_main.ja/</guid>
       <description>横浜国立大学修士2年の斉藤翔汰です． 機械学習（特に深層学習） と 進化計算 に関する研究に従事しており，特に ハイパーパラメータ最適化 と ニューラルネットワークの構造最適化 に強い興味があります．一般的に，ハイパーパラメータや構造の探索には多大なコストを要します．そこで，効率的なハイパーパラメータ（あるいは構造）最適化アルゴリズムの開発 を目標として，研究を進めています．</description>
     </item>
     

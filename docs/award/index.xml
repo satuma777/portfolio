@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Awards on Shota Saito</title>
-    <link>https://satuma-portfolio.xyz/award/</link>
+    <link>http://satuma-portfolio.xyz/award/</link>
     <description>Recent content in Awards on Shota Saito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>CJK</language>
     
-	<atom:link href="https://satuma-portfolio.xyz/award/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://satuma-portfolio.xyz/award/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>awards &amp; scholarship</title>
-      <link>https://satuma-portfolio.xyz/award/awards/</link>
+      <link>http://satuma-portfolio.xyz/award/awards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://satuma-portfolio.xyz/award/awards/</guid>
+      <guid>http://satuma-portfolio.xyz/award/awards/</guid>
       <description> Awards  進化計算コンペティション2017　産業界で使える進化計算とは?  単目的部門 第2位 (内田絢斗，斉藤翔汰，白川真一：横浜国立大学) 多目的部門 第3位 (斉藤翔汰，内田絢斗，白川真一：横浜国立大学)   Scholarship  2018：夢＆環境支援宮崎記念基金 給与奨学生（公募） 2018：林レオロジー記念財団 給与奨学生 2016：日揮・実吉奨学会奨学生（日本人向け給与奨学金）  </description>
     </item>
     
