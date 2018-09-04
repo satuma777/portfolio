@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experiments on Shota Saito</title>
-    <link>http://satuma-portfolio.xyz/experiments/</link>
+    <link>https://satuma-portfolio.xyz/experiments/</link>
     <description>Recent content in Experiments on Shota Saito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>CJK</language>
     
-	<atom:link href="http://satuma-portfolio.xyz/experiments/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://satuma-portfolio.xyz/experiments/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>experience &amp; certifications</title>
-      <link>http://satuma-portfolio.xyz/experiments/experiments/</link>
+      <link>https://satuma-portfolio.xyz/experiments/experiments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satuma-portfolio.xyz/experiments/experiments/</guid>
+      <guid>https://satuma-portfolio.xyz/experiments/experiments/</guid>
       <description> Work experience  2016.10 ~ Now：横浜国立大学 研究支援員 2018.05 ~ 2018.09：株式会社インフォメティス 研究開発インターン 2018.04 ~ 2018.08：横浜国立大学 2018年度 理工学部専門講義「プログラミング演習I」ティーチング・アシスタント(TA) 2017.10 ~ 2018.03：横浜国立大学 2017年度 理工学部専門講義「プログラミング演習II」ティーチング・アシスタント(TA) 2015.10 ~ 2018.03：株式会社シェークハンズ エンジニアインターン  Certifications For Education  中学校教諭一種免許状（数学）2017年3月取得 高等学校教諭一種免許状（数学）2017年3月取得 高等学校教諭一種免許状（情報）2017年3月取得  For Engineering  Japan Deep Learning Association (JDLA) Deep Learning for GENERAL 2018年6月合格 応用情報技術者試験 2015年10月合格 基本情報技術者試験 2014年10月合格 第二級陸上特殊無線士 2015年4月取得 第二級海上特殊無線士 2015年4月取得 エックス線作業主任者 2012年12月取得  Others  普通自動車免許 2015年3月取得  </description>
     </item>
     

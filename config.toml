@@ -1,5 +1,5 @@
 theme = "hugo-initio"
-baseURL = "http://satuma-portfolio.xyz/"
+baseURL = "https://satuma-portfolio.xyz/"
 languageCode = "CJK"
 title = "Shota Saito"
 publishDir = "docs"
