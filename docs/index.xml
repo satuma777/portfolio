@@ -6,10 +6,21 @@
     <description>Recent content in Shota Saito&#39;s portfolio on Shota Saito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>CJK</language>
-    <lastBuildDate>Sat, 01 Sep 2018 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Sep 2018 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://satuma-portfolio.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Parameterless Stochastic Natural Gradient Method for Discrete Optimization and its Application to Hyper-Parameter Optimization for Neural Network</title>
+      <link>https://satuma-portfolio.xyz/papers/6/</link>
+      <pubDate>Sun, 23 Sep 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://satuma-portfolio.xyz/papers/6/</guid>
+      <description>&lt;p&gt;Kouhei Nishida, Hernan Aguirre, &lt;strong&gt;Shota Saito&lt;/strong&gt;, Shinichi Shirakawa, Youhei Akimoto: &amp;ldquo;Parameterless Stochastic Natural Gradient Method for Discrete Optimization and its Application to Hyper-Parameter Optimization for Neural Network&amp;rdquo;, preprint arXiv:1809.06517 (2018).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Dynamic Feature Construction for Neural Networks Using Probabilistic Model-Based Genetic Programming</title>
