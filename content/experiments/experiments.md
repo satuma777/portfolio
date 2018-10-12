@@ -17,7 +17,8 @@ title = "experience & certifications"
 - 高等学校教諭一種免許状（情報）2017年3月取得
 
 #### For Engineering
-- [Japan Deep Learning Association (JDLA) Deep Learning for GENERAL](http://www.jdla.org/business/certificate/#education) 2018年6月合格
+- [Japan Deep Learning Association (JDLA) Deep Learning for ENGINEER](http://www.jdla.org/business/certificate/#education) 2018年10月合格
+- [Japan Deep Learning Association (JDLA) Deep Learning for GENERAL #1](http://www.jdla.org/business/certificate/#education) 2018年6月合格
 - 応用情報技術者試験 2015年10月合格
 - 基本情報技術者試験 2014年10月合格
 - 第二級陸上特殊無線士 2015年4月取得
