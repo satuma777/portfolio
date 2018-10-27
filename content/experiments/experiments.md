@@ -1,5 +1,5 @@
 +++
-title = "experience & certifications"
+title = "experiences & certifications"
 +++
 
 ## Affiliations
@@ -15,7 +15,6 @@ title = "experience & certifications"
 - 2018.04 ~ 2018.08：横浜国立大学 [2018年度 理工学部専門講義「プログラミング演習I」](https://risyu.jmk.ynu.ac.jp/gakumu_portal/Public/Syllabus/DetailMain.aspx?lct_year=2018&lct_cd=6Z2212A&je_cd=1)ティーチング・アシスタント(TA)
 - 2017.10 ~ 2018.03：横浜国立大学 [2017年度 理工学部専門講義「プログラミング演習II」](https://risyu.jmk.ynu.ac.jp/gakumu/Public/Syllabus/DetailMain.aspx?lct_year=2017&lct_cd=6I2205Z&je_cd=1)ティーチング・アシスタント(TA)
 - 2015.10 ~ 2018.03：株式会社シェークハンズ エンジニアインターン
-
 
 ### Certifications
 #### For Education
