@@ -2,7 +2,13 @@
 title = "experience & certifications"
 +++
 
-### Work experience
+## Affiliations
+- Student Member of IEEE
+
+## Activities
+- Programme Committee of [Student Workshop at GECCO 2018](http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Student%20Workshop)
+
+### Work eEperiences
 - 2016.10 ~ Now：横浜国立大学 研究支援員
 - 2018.10 ~ 2019.03：横浜国立大学 [2018年度 理工学部専門講義「プログラミング演習II」](https://risyu.jmk.ynu.ac.jp/gakumu/Public/Syllabus/DetailMain.aspx?lct_year=2018&lct_cd=6I2205Z&je_cd=1)ティーチング・アシスタント(TA)
 - 2018.05 ~ 2018.09：株式会社インフォメティス 研究開発インターン
