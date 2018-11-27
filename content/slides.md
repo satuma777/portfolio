@@ -10,6 +10,16 @@ title = "Slides"
 <script async class="speakerdeck-embed" data-slide="1" data-id="6190eab35b154a83b8915ca294c98ce3" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### 論文紹介
+- 2018/11/27の論文紹介ゼミで使用したスライド(一部改編)
+- K. Kandasamy, W. Neiswanger, J. Schneider, B. Poczos, and E. Xing, “Neural Architecture Search with Bayesian Optimisation and Optimal Transport,” in Proceedings of Thirty-second Conference on Neural Information Processing Systems (NIPS 2018), 2018. 
+- https://arxiv.org/abs/1802.07191
+<script async class="speakerdeck-embed" data-id="4c7c9287cd554c97876cabeea7909e6e" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+- 2018/10/28の[ICML2018読み会](https://connpass.com/event/92705/)で使用したスライド
+- H. Cai, J. Yang, W. Zhang, S. Han, and Y. Yu, “Path-Level Network Transformation for Efficient Architecture Search,” in Proceedings of the 35th International Conference on Machine Learning (ICML 2018), 2018, pp. 677–686.
+- http://proceedings.mlr.press/v80/cai18a.html
+<script async class="speakerdeck-embed" data-id="85f63cae79024215911a7cab11df0863" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 - 2018/05/08の論文紹介ゼミで使用したスライド(一部改編)
 - H. Cai, T. Chen, W. Zhang, Y. Yu, and J. Wang, “Efficient Architecture Search by Network Transformation,” in Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18), 2018.
 - https://arxiv.org/abs/1707.04873
