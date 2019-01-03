@@ -5,7 +5,7 @@ title = "experiences & certifications"
 ### Work Experiences
 - 2016.10 ~ Now：横浜国立大学 研究支援員
 - 2018.10 ~ 2019.03：横浜国立大学 [2018年度 理工学部専門講義「プログラミング演習II」](https://risyu.jmk.ynu.ac.jp/gakumu/Public/Syllabus/DetailMain.aspx?lct_year=2018&lct_cd=6I2205Z&je_cd=1)ティーチング・アシスタント(TA)
-- 2018.05 ~ 2018.09：株式会社インフォメティス 研究開発インターン
+- 2018.05 ~ 2018.09：株式会社インフォメティス アルゴリズム研究開発インターン
 - 2018.04 ~ 2018.08：横浜国立大学 [2018年度 理工学部専門講義「プログラミング演習I」](https://risyu.jmk.ynu.ac.jp/gakumu_portal/Public/Syllabus/DetailMain.aspx?lct_year=2018&lct_cd=6Z2212A&je_cd=1)ティーチング・アシスタント(TA)
 - 2017.10 ~ 2018.03：横浜国立大学 [2017年度 理工学部専門講義「プログラミング演習II」](https://risyu.jmk.ynu.ac.jp/gakumu/Public/Syllabus/DetailMain.aspx?lct_year=2017&lct_cd=6I2205Z&je_cd=1)ティーチング・アシスタント(TA)
 - 2015.10 ~ 2018.03：株式会社シェークハンズ エンジニアインターン
@@ -23,6 +23,11 @@ title = "experiences & certifications"
 - 高等学校教諭一種免許状（情報）2017年3月取得
 
 #### For Engineering
+
+- [画像処理エンジニア検定エキスパート](https://www.cgarts.or.jp/kentei/about/img_engineer/index.html) 2018年11月合格 
+- [マルチメディア検定エキスパート](https://www.cgarts.or.jp/kentei/about/multimedia/index.html) 2018年11月合格
+- [画像処理エンジニア検定ベーシック](https://www.cgarts.or.jp/kentei/about/img_engineer/index.html) 2018年11月合格
+- [マルチメディア検定ベーシック](https://www.cgarts.or.jp/kentei/about/multimedia/index.html) 2018年11月合格
 - [Japan Deep Learning Association (JDLA) Deep Learning for ENGINEER](http://www.jdla.org/business/certificate/#education) 2018年10月合格
 - [Japan Deep Learning Association (JDLA) Deep Learning for GENERAL #1](http://www.jdla.org/business/certificate/#education) 2018年6月合格
 - 応用情報技術者試験 2015年10月合格
