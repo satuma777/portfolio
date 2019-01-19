@@ -3,7 +3,8 @@ title = "experiences & certifications"
 +++
 
 ### Work Experiences
-- 2016.10 ~ Now：横浜国立大学 研究支援員
+- 2019.04 ~ 都内ベンチャーにてエンジニアとして勤務予定
+- 2016.10 ~ 2019.03：横浜国立大学 研究支援員
 - 2018.10 ~ 2019.03：横浜国立大学 [2018年度 理工学部専門講義「プログラミング演習II」](https://risyu.jmk.ynu.ac.jp/gakumu/Public/Syllabus/DetailMain.aspx?lct_year=2018&lct_cd=6I2205Z&je_cd=1)ティーチング・アシスタント(TA)
 - 2018.05 ~ 2018.09：株式会社インフォメティス アルゴリズム研究開発インターン
 - 2018.04 ~ 2018.08：横浜国立大学 [2018年度 理工学部専門講義「プログラミング演習I」](https://risyu.jmk.ynu.ac.jp/gakumu_portal/Public/Syllabus/DetailMain.aspx?lct_year=2018&lct_cd=6Z2212A&je_cd=1)ティーチング・アシスタント(TA)
