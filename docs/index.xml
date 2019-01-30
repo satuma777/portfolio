@@ -6,10 +6,43 @@
     <description>Recent content in Shota Saito&#39;s portfolio on Shota Saito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>CJK</language>
-    <lastBuildDate>Sun, 23 Sep 2018 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 21:12:00 +0000</lastBuildDate>
     
 	<atom:link href="https://satuma-portfolio.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ニューラルネットワークを用いたフォトニック結晶ナノレーザの構造最適化</title>
+      <link>https://satuma-portfolio.xyz/papers/9/</link>
+      <pubDate>Tue, 29 Jan 2019 21:12:00 +0000</pubDate>
+      
+      <guid>https://satuma-portfolio.xyz/papers/9/</guid>
+      <description>&lt;p&gt;阿部遼太郎，武田太一，白鳥遼，白川真一，&lt;strong&gt;斉藤翔汰&lt;/strong&gt;，馬場俊彦：ニューラルネットワークを用いたフォトニック結晶ナノレーザの構造最適化，応用物理学会春季講演会 (2019).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>機械学習を用いたフォトニック結晶ナノレーザのQ値向上</title>
+      <link>https://satuma-portfolio.xyz/papers/8/</link>
+      <pubDate>Tue, 29 Jan 2019 21:11:00 +0000</pubDate>
+      
+      <guid>https://satuma-portfolio.xyz/papers/8/</guid>
+      <description>&lt;p&gt;武田太一，阿部遼太郎，白鳥遼，白川真一，&lt;strong&gt;斉藤翔汰&lt;/strong&gt;，馬場俊彦：機械学習を用いたフォトニック結晶ナノレーザのQ値向上，応用物理学会春季講演会 (2019).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>粒子群最適化を用いたSiフォトニック結晶光偏向器の最適化</title>
+      <link>https://satuma-portfolio.xyz/papers/7/</link>
+      <pubDate>Tue, 29 Jan 2019 21:10:00 +0000</pubDate>
+      
+      <guid>https://satuma-portfolio.xyz/papers/7/</guid>
+      <description>&lt;p&gt;白鳥遼，阿部遼太郎，武田太一，中田雅也，白川真一，&lt;strong&gt;斉藤翔汰&lt;/strong&gt;，馬場俊彦：粒子群最適化を用いたSiフォトニック結晶光偏向器の最適化，応用物理学会春季講演会 (2019).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Parameterless Stochastic Natural Gradient Method for Discrete Optimization and its Application to Hyper-Parameter Optimization for Neural Network</title>
@@ -17,7 +50,9 @@
       <pubDate>Sun, 23 Sep 2018 12:00:00 +0000</pubDate>
       
       <guid>https://satuma-portfolio.xyz/papers/6/</guid>
-      <description>&lt;p&gt;Kouhei Nishida, Hernan Aguirre, &lt;strong&gt;Shota Saito&lt;/strong&gt;, Shinichi Shirakawa, Youhei Akimoto: &amp;ldquo;Parameterless Stochastic Natural Gradient Method for Discrete Optimization and its Application to Hyper-Parameter Optimization for Neural Network&amp;rdquo;, preprint arXiv:1809.06517 (2018).&lt;/p&gt;</description>
+      <description>&lt;p&gt;Kouhei Nishida, Hernan Aguirre, &lt;strong&gt;Shota Saito&lt;/strong&gt;, Shinichi Shirakawa, Youhei Akimoto: &amp;ldquo;Parameterless Stochastic Natural Gradient Method for Discrete Optimization and its Application to Hyper-Parameter Optimization for Neural Network&amp;rdquo;, preprint arXiv:1809.06517 (2018).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,7 +61,9 @@
       <pubDate>Sat, 01 Sep 2018 12:00:00 +0000</pubDate>
       
       <guid>https://satuma-portfolio.xyz/papers/5/</guid>
-      <description>&lt;p&gt;Hirokazu Kobayashi, &lt;strong&gt;Shota Saito&lt;/strong&gt;, Shinichi Shirakawa: &amp;ldquo;Dynamic Feature Construction for Neural Networks Using Probabilistic Model-Based Genetic Programming&amp;rdquo;, 2018 JPNSEC International Workshop on Evolutionary Computation, Shenzhen, China (2018).&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hirokazu Kobayashi, &lt;strong&gt;Shota Saito&lt;/strong&gt;, Shinichi Shirakawa: &amp;ldquo;Dynamic Feature Construction for Neural Networks Using Probabilistic Model-Based Genetic Programming&amp;rdquo;, 2018 JPNSEC International Workshop on Evolutionary Computation, Shenzhen, China (2018).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -35,7 +72,9 @@
       <pubDate>Fri, 31 Aug 2018 12:00:00 +0000</pubDate>
       
       <guid>https://satuma-portfolio.xyz/papers/4/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Shota Saito&lt;/strong&gt;, Shinichi Shirakawa: &amp;ldquo;Introducing a Penalty Term to Control Structure Complexity in Dynamic Optimization of Neural Network Structures&amp;rdquo;, 2018 JPNSEC International Workshop on Evolutionary Computation, Shenzhen, China (2018).&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Shota Saito&lt;/strong&gt;, Shinichi Shirakawa: &amp;ldquo;Introducing a Penalty Term to Control Structure Complexity in Dynamic Optimization of Neural Network Structures&amp;rdquo;, 2018 JPNSEC International Workshop on Evolutionary Computation, Shenzhen, China (2018).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,7 +83,9 @@
       <pubDate>Wed, 01 Aug 2018 12:00:00 +0000</pubDate>
       
       <guid>https://satuma-portfolio.xyz/papers/3/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Shota Saito&lt;/strong&gt;, Shinichi Shirakawa, Youhei Akimoto: &amp;ldquo;Embedded Feature Selection Using Probabilistic Model-Based Optimization&amp;rdquo;, Student Workshop in Genetic and Evolutionary Computation Conference 2018 (GECCO 2018) , Kyoto, Japan, 15th-19th July (2018). (&lt;strong&gt;Best student paper nominated&lt;/strong&gt;)&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Shota Saito&lt;/strong&gt;, Shinichi Shirakawa, Youhei Akimoto: &amp;ldquo;Embedded Feature Selection Using Probabilistic Model-Based Optimization&amp;rdquo;, Student Workshop in Genetic and Evolutionary Computation Conference 2018 (GECCO 2018) , Kyoto, Japan, 15th-19th July (2018). (&lt;strong&gt;Best student paper nominated&lt;/strong&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,7 +94,9 @@
       <pubDate>Sun, 31 Dec 2017 12:00:00 +0000</pubDate>
       
       <guid>https://satuma-portfolio.xyz/papers/2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;斉藤翔汰&lt;/strong&gt;，白川真一：Information Geometric Optimizationを⽤いた埋め込み型特徴選択，進化計算シンポジウム2017，pp.77-84 (2017).&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;斉藤翔汰&lt;/strong&gt;，白川真一：Information Geometric Optimizationを⽤いた埋め込み型特徴選択，進化計算シンポジウム2017，pp.77-84 (2017).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -62,7 +105,9 @@
       <pubDate>Fri, 31 Mar 2017 12:00:00 +0000</pubDate>
       
       <guid>https://satuma-portfolio.xyz/papers/1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;斉藤翔汰&lt;/strong&gt;，白川真一：適応的ノイズ分布を導入したDeep Neural Networkのための学習法，計測自動制御学会 システム・情報部門 第56回システム工学部会研究会，pp.26-32 (2017).&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;斉藤翔汰&lt;/strong&gt;，白川真一：適応的ノイズ分布を導入したDeep Neural Networkのための学習法，計測自動制御学会 システム・情報部門 第56回システム工学部会研究会，pp.26-32 (2017).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -124,7 +169,9 @@
 &lt;li&gt;2017.4 ~ 2019.03：&lt;a href=&#34;http://www.eis.ynu.ac.jp/category01/academic/media.html&#34;&gt;横浜国立大学大学院 環境情報学府 情報メディア環境学専攻 情報メディア学コース&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;指導教員：&lt;a href=&#34;http://shiralab.ynu.ac.jp/shirakawa/&#34;&gt;白川真一&lt;/a&gt; 講師&lt;/li&gt;
 &lt;li&gt;修士論文タイトル：深層学習のための正則化付き動的構造最適化&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -136,7 +183,9 @@
       <description>&lt;ul&gt;
 &lt;li&gt;2019.04 ~ ：&lt;a href=&#34;http://www.eis.ynu.ac.jp/category01/academic/information.html&#34;&gt;横浜国立大学大学院 環境情報学府 情報メディア環境学専攻 情報環境専攻&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;指導教員：&lt;a href=&#34;http://shiralab.ynu.ac.jp/shirakawa/&#34;&gt;白川真一&lt;/a&gt; 講師&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -149,7 +198,9 @@
 &lt;li&gt;2015.3 ~ 2017.3：横浜国立大学 理工学部 数物・電子情報系学科 情報工学EP&lt;/li&gt;
 &lt;li&gt;卒業研究指導教員：&lt;a href=&#34;http://shiralab.ynu.ac.jp/shirakawa/&#34;&gt;白川真一&lt;/a&gt; 講師&lt;/li&gt;
 &lt;li&gt;卒業研究タイトル：適応的ノイズ分布を導入したDeep Neural Networkのための学習法&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -162,7 +213,9 @@
 &lt;li&gt;2010.4 ~ 2015.3：茨城工業高等専門学校 電子情報工学科&lt;/li&gt;
 &lt;li&gt;卒業研究指導教員：&lt;a href=&#34;https://researchmap.jp/horai/&#34;&gt;蓬莱尚幸&lt;/a&gt; 教授&lt;/li&gt;
 &lt;li&gt;卒業研究タイトル：拡張現実技術を使用した技術習得支援システム&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
