@@ -49,27 +49,27 @@ canonifyurls = true
 # [params.google.analytics]
 #     trackerID = "GA-000000000-0"
 
-[[params.social]]
+[[params.social_brand]]
     title = "facebook"
     url = "https://www.facebook.com/shota.saito.3781"
     icon = "fa-facebook-square"
     footer = true
     sharethis = false
     network = "facebook"
-[[params.social]]
+[[params.social_brand]]
     title = "twitter"
     url = "https://twitter.com/argv_sat184"
     icon = "fa-twitter-square"
     footer = true
     sharethis = true
     network = "twitter"
-[[params.social]]
+[[params.social_brand]]
     title = "github"
     url = "https://github.com/satuma777"
     icon = "fa-github"
     footer = true
     sharethis = false
-    network = ""
+    network = "github"
 [[params.social]]
     title = "booklog"
     url = "https://booklog.jp/users/satuma777"
@@ -78,16 +78,16 @@ canonifyurls = true
     sharethis = true
     network = ""
 [[params.social]]
-    title = "ORCID"
+    title = "orcid"
     url = "https://orcid.org/0000-0002-9863-6765"
     icon = "fa-id-badge"
     footer = true
     sharethis = true
-    network = ""
-[[params.social]]
+    network = "orcid"
+[[params.social_brand]]
     title = "ResearchGate"
     url = "https://www.researchgate.net/profile/Shota_Saito5"
     icon = "fa-researchgate"
     footer = true
     sharethis = true
-    network = ""
+    network = "ResearchGate"

@@ -15,10 +15,15 @@
 			{{ end }}
 
 			{{ if .Site.Params.footerEnableFollowme }}
-			<div class="col-md-3 widget">
+			<div class="col-md-4 widget">
 				<h3 class="widget-title">Follow me</h3>
 				<div class="widget-body">
 					<p class="follow-me-icons">
+                        {{ range .Site.Params.social_brand }}
+                            {{ if .footer }}
+                                <a href="{{ .url }}" target="_blank"><i class="fab {{ .icon }} fa-2"></i></a>
+                            {{ end }}
+                        {{ end }}
                         {{ range .Site.Params.social }}
                             {{ if .footer }}
                                 <a href="{{ .url }}" target="_blank"><i class="fa {{ .icon }} fa-2"></i></a>
@@ -70,7 +75,7 @@
 				<div class="widget-body">
 					<p class="text-right">
 						Copyright &copy; {{ .Site.Params.year }}, {{ .Site.Params.name }}<br>
-						Design: <a href="http://www.gettemplate.com" rel="designer">Initio by GetTemplate</a> - 
+						Design: <a href="http://www.gettemplate.com" rel="designer">Initio by GetTemplate</a> -
                         Powered by: <a href="https://gohugo.io/" rel="poweredby">Hugo</a>
                     </p>
 				</div>
