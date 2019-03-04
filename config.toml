@@ -77,3 +77,17 @@ canonifyurls = true
     footer = true
     sharethis = true
     network = ""
+[[params.social]]
+    title = "ORCID"
+    url = "https://orcid.org/0000-0002-9863-6765"
+    icon = "fa-id-badge"
+    footer = true
+    sharethis = true
+    network = ""
+[[params.social]]
+    title = "ResearchGate"
+    url = "https://www.researchgate.net/profile/Shota_Saito5"
+    icon = "fa-researchgate"
+    footer = true
+    sharethis = true
+    network = ""
