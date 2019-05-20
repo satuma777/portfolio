@@ -1,5 +1,5 @@
 +++
-title = "修士（情報学）※見込み"
+title = "修士（情報学）｜　Master of Informarics"
 +++
 
 - 2017.4 ~ 2019.03：[横浜国立大学大学院 環境情報学府 情報メディア環境学専攻 情報メディア学コース](http://www.eis.ynu.ac.jp/category01/academic/media.html)

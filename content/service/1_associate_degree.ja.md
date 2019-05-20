@@ -1,5 +1,5 @@
 +++
-title = "準学士（工学）"
+title = "準学士（工学）｜Associate degree of Engineering"
 +++
 
 - 2010.4 ~ 2015.3：茨城工業高等専門学校 電子情報工学科
