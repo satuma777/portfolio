@@ -5,7 +5,7 @@ title = "experiences & certifications"
 ### Work Experiences
 - 2019.04 ~ [スキルアップAI株式会社](https://www.skillupai.com) 講師＆機械学習エンジニア
   - [AIジェネラリスト基礎講座](https://www.skillupai.com/ai-generalist/)，[現場で使える現場で使える機械学習・データ分析基礎講座](https://www.skillupai.com/machine-learning/)，[現場で使えるディープラーニング基礎講座](https://www.skillupai.com/deep-learning/)，[ディープラーニング最新論文講座](https://www.skillupai.com/dl-paper/)などを担当
-- 2018.05 ~ 2019.03：スキルアップAI株式会社](https://www.skillupai.com)にて，講師を請け負う
+- 2018.05 ~ 2019.03：[スキルアップAI株式会社](https://www.skillupai.com)にて，講師を請け負う
   - [機械学習・ディープラーニングのための基礎数学講座](https://www.skillupai.com/fundamental-math/)，[機械学習・ディープラーニングのための応用数学講座](https://www.skillupai.com/applied-math/)，[機械学習を始めるためのPython入門講座](https://www.skillupai.com/python/)などを担当
 - 2016.10 ~ 2019.03：横浜国立大学 研究支援員
 - 2018.10 ~ 2019.03：横浜国立大学 [2018年度 理工学部専門講義「プログラミング演習II」](https://risyu.jmk.ynu.ac.jp/gakumu/Public/Syllabus/DetailMain.aspx?lct_year=2018&lct_cd=6I2205Z&je_cd=1)ティーチング・アシスタント(TA)
