@@ -6,10 +6,22 @@
     <description>Recent content in Papers on Shota Saito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>CJK</language>
-    <lastBuildDate>Tue, 29 Jan 2019 21:12:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2019 21:12:00 +0000</lastBuildDate>
     
 	<atom:link href="https://satuma-portfolio.xyz/papers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search</title>
+      <link>https://satuma-portfolio.xyz/papers/10/</link>
+      <pubDate>Sun, 19 May 2019 21:12:00 +0000</pubDate>
+      
+      <guid>https://satuma-portfolio.xyz/papers/10/</guid>
+      <description>&lt;p&gt;Youhei Akimoto, Shinichi Shirakawa, Nozomu Yoshinari, Kento Uchida,
+&lt;strong&gt;Shota Saito&lt;/strong&gt;, and Kouhei Nishida: Adaptive Stochastic Natural Gradient
+Method for One-Shot Neural Architecture Search, The 36th International
+Conference on Machine Learning (ICML) (2019) (Accepted).&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>ニューラルネットワークを用いたフォトニック結晶ナノレーザの構造最適化</title>
