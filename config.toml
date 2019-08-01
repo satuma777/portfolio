@@ -7,7 +7,7 @@ canonifyurls = true
 
 [params]
     name = "Shota Saito"
-    description = "Ph.D course student at Yokohama National University"
+    description = "Lecture & Machine Learning Engineer at SkillUp AI Co., Ltd. / Ph.D course student at Yokohama National University"
     description2 = "Deep Neural Network / Machine Learning / Evolutionary Computation / Python / Chainer"
     email = "saito-shota-bt☆ynu.jp (☆→@)"
     year = 2018
