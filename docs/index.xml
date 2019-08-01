@@ -6,10 +6,70 @@
     <description>Recent content in Shota Saito&#39;s portfolio on Shota Saito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>CJK</language>
-    <lastBuildDate>Sun, 19 May 2019 21:12:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2019 21:12:00 +0000</lastBuildDate>
     
 	<atom:link href="https://satuma-portfolio.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Controlling Model Complexity in Probabilistic Model-Based Dynamic Optimization of Neural Network Structures</title>
+      <link>https://satuma-portfolio.xyz/papers/11/</link>
+      <pubDate>Wed, 31 Jul 2019 21:12:00 +0000</pubDate>
+      
+      <guid>https://satuma-portfolio.xyz/papers/11/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Shota Saito&lt;/strong&gt; and Shinichi Shirakawa: Controlling Model Complexity in Probabilistic Model-Based Dynamic Optimization of Neural Network Structures, The 28th International Conference on Artificial Neural Networks (ICANN 2019) (Accepted as oral presentation).  &lt;strong&gt;※ Acceptance Rate for Oral Presentation:  24.3% ≒ 120 / 494&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>博士後期課程｜Ph.D Course Student</title>
+      <link>https://satuma-portfolio.xyz/service/4_doctor_ja/</link>
+      <pubDate>Thu, 04 Jul 2019 21:12:00 +0000</pubDate>
+      
+      <guid>https://satuma-portfolio.xyz/service/4_doctor_ja/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2019.04 ~ ：&lt;a href=&#34;http://www.eis.ynu.ac.jp/category01/academic/information.html&#34;&gt;横浜国立大学大学院 環境情報学府 情報メディア環境学専攻 情報環境専攻&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;指導教員：&lt;a href=&#34;http://shiralab.ynu.ac.jp/shirakawa/&#34;&gt;白川真一&lt;/a&gt; 講師&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>修士（情報学）｜　Master of Informatics</title>
+      <link>https://satuma-portfolio.xyz/service/3_master.ja/</link>
+      <pubDate>Wed, 03 Jul 2019 21:12:00 +0000</pubDate>
+      
+      <guid>https://satuma-portfolio.xyz/service/3_master.ja/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2017.4 ~ 2019.03：&lt;a href=&#34;http://www.eis.ynu.ac.jp/category01/academic/media.html&#34;&gt;横浜国立大学大学院 環境情報学府 情報メディア環境学専攻 情報メディア学コース&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;指導教員：&lt;a href=&#34;http://shiralab.ynu.ac.jp/shirakawa/&#34;&gt;白川真一&lt;/a&gt; 講師&lt;/li&gt;
+&lt;li&gt;修士論文タイトル：深層学習のための正則化付き動的構造最適化&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>学士（工学）｜Bachelor of Engineering</title>
+      <link>https://satuma-portfolio.xyz/service/2_bachelor.ja/</link>
+      <pubDate>Tue, 02 Jul 2019 21:12:00 +0000</pubDate>
+      
+      <guid>https://satuma-portfolio.xyz/service/2_bachelor.ja/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2015.3 ~ 2017.3：横浜国立大学 理工学部 数物・電子情報系学科 情報工学EP&lt;/li&gt;
+&lt;li&gt;卒業研究指導教員：&lt;a href=&#34;http://shiralab.ynu.ac.jp/shirakawa/&#34;&gt;白川真一&lt;/a&gt; 講師&lt;/li&gt;
+&lt;li&gt;卒業研究タイトル：適応的ノイズ分布を導入したDeep Neural Networkのための学習法&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>準学士（工学）｜Associate degree of Engineering</title>
+      <link>https://satuma-portfolio.xyz/service/1_associate_degree.ja/</link>
+      <pubDate>Mon, 01 Jul 2019 21:12:00 +0000</pubDate>
+      
+      <guid>https://satuma-portfolio.xyz/service/1_associate_degree.ja/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2010.4 ~ 2015.3：茨城工業高等専門学校 電子情報工学科&lt;/li&gt;
+&lt;li&gt;卒業研究指導教員：&lt;a href=&#34;https://researchmap.jp/horai/&#34;&gt;蓬莱尚幸&lt;/a&gt; 教授&lt;/li&gt;
+&lt;li&gt;卒業研究タイトル：拡張現実技術を使用した技術習得支援システム&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search</title>
@@ -17,10 +77,7 @@
       <pubDate>Sun, 19 May 2019 21:12:00 +0000</pubDate>
       
       <guid>https://satuma-portfolio.xyz/papers/10/</guid>
-      <description>&lt;p&gt;Youhei Akimoto, Shinichi Shirakawa, Nozomu Yoshinari, Kento Uchida,
-&lt;strong&gt;Shota Saito&lt;/strong&gt;, and Kouhei Nishida: Adaptive Stochastic Natural Gradient
-Method for One-Shot Neural Architecture Search, The 36th International
-Conference on Machine Learning (ICML) (2019) (Accepted).  &lt;strong&gt;※ Acceptance Rate: 773 / 3424 ≒ 22.6%&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Youhei Akimoto, Shinichi Shirakawa, Nozomu Yoshinari, Kento Uchida, &lt;strong&gt;Shota Saito&lt;/strong&gt;, and Kouhei Nishida: Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search,Proceedings of the 36th International Conference on Machine Learning (ICML), Vol. 97 of PMLR, pp. 171-180 (2019).  &lt;strong&gt;※ Acceptance Rate: 22.6% ≒ 773 / 3424&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -110,11 +167,8 @@ Conference on Machine Learning (ICML) (2019) (Accepted).  &lt;strong&gt;※ Acce
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://satuma-portfolio.xyz/slides/</guid>
-      <description>イベント発表など  2018/04/13の新ラボ生向けチュートリアルで使用したスライド 
- 第二回Shot A Talkで使用したスライド 
-  論文紹介  2018/11/27の論文紹介ゼミで使用したスライド(一部改編) K. Kandasamy, W. Neiswanger, J. Schneider, B. Poczos, and E. Xing, “Neural Architecture Search with Bayesian Optimisation and Optimal Transport,” in Proceedings of Thirty-second Conference on Neural Information Processing Systems (NIPS 2018), 2018. https://arxiv.org/abs/1802.07191 
- 2018/10/28のICML2018読み会で使用したスライド
- H. Cai, J. Yang, W. Zhang, S. Han, and Y. Yu, “Path-Level Network Transformation for Efficient Architecture Search,” in Proceedings of the 35th International Conference on Machine Learning (ICML 2018), 2018, pp.</description>
+      <description>論文紹介  2019/07/21のICLR/ICML2019読み会で使用したスライド Youhei Akimoto, Shinichi Shirakawa, Nozomu Yoshinari, Kento Uchida, Shota Saito, and Kouhei Nishida: Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search, Proceedings of the 36th International Conference on Machine Learning (ICML), Vol. 97 of PMLR, pp. 171-180 (2019).
+ http://proceedings.mlr.press/v97/akimoto19a.html    2018/11/27の論文紹介ゼミで使用したスライド(一部改編) K. Kandasamy, W. Neiswanger, J. Schneider, B. Poczos, and E. Xing, “Neural Architecture Search with Bayesian Optimisation and Optimal Transport,” in Proceedings of Thirty-second Conference on Neural Information Processing Systems (NIPS 2018), 2018.</description>
     </item>
     
     <item>
@@ -152,57 +206,6 @@ Moreover, I am enrolled in a doctoral course at Yokohama National University in 
       
       <guid>https://satuma-portfolio.xyz/introduction/1_intro_main.ja/</guid>
       <description>スキルアップAI株式会社にて，機械学習エンジニアや講師として勤務しています．また，横浜国立大学大学院 環境情報学府 情報環境専攻の博士後期課程の学生でもあります．機械学習や深層学習，進化計算に興味があります．特に，深層学習におけるハイパーパラメータ最適化に強い興味があり，情報幾何に基づくBlack-Box最適化フレームワークを用いた深層学習のための効率的なハイパーパラメータ最適化アルゴリズムの開発を研究テーマとしています．</description>
-    </item>
-    
-    <item>
-      <title>修士（情報学）｜　Master of Informatics</title>
-      <link>https://satuma-portfolio.xyz/service/3_master.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://satuma-portfolio.xyz/service/3_master.ja/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;2017.4 ~ 2019.03：&lt;a href=&#34;http://www.eis.ynu.ac.jp/category01/academic/media.html&#34;&gt;横浜国立大学大学院 環境情報学府 情報メディア環境学専攻 情報メディア学コース&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;指導教員：&lt;a href=&#34;http://shiralab.ynu.ac.jp/shirakawa/&#34;&gt;白川真一&lt;/a&gt; 講師&lt;/li&gt;
-&lt;li&gt;修士論文タイトル：深層学習のための正則化付き動的構造最適化&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>博士過程後期学生</title>
-      <link>https://satuma-portfolio.xyz/4_doctor_ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://satuma-portfolio.xyz/4_doctor_ja/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;2019.04 ~ ：&lt;a href=&#34;http://www.eis.ynu.ac.jp/category01/academic/information.html&#34;&gt;横浜国立大学大学院 環境情報学府 情報メディア環境学専攻 情報環境専攻&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;指導教員：&lt;a href=&#34;http://shiralab.ynu.ac.jp/shirakawa/&#34;&gt;白川真一&lt;/a&gt; 講師&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>学士（工学）｜Bachelor of Engineering</title>
-      <link>https://satuma-portfolio.xyz/service/2_bachelor.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://satuma-portfolio.xyz/service/2_bachelor.ja/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;2015.3 ~ 2017.3：横浜国立大学 理工学部 数物・電子情報系学科 情報工学EP&lt;/li&gt;
-&lt;li&gt;卒業研究指導教員：&lt;a href=&#34;http://shiralab.ynu.ac.jp/shirakawa/&#34;&gt;白川真一&lt;/a&gt; 講師&lt;/li&gt;
-&lt;li&gt;卒業研究タイトル：適応的ノイズ分布を導入したDeep Neural Networkのための学習法&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>準学士（工学）｜Associate degree of Engineering</title>
-      <link>https://satuma-portfolio.xyz/service/1_associate_degree.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://satuma-portfolio.xyz/service/1_associate_degree.ja/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;2010.4 ~ 2015.3：茨城工業高等専門学校 電子情報工学科&lt;/li&gt;
-&lt;li&gt;卒業研究指導教員：&lt;a href=&#34;https://researchmap.jp/horai/&#34;&gt;蓬莱尚幸&lt;/a&gt; 教授&lt;/li&gt;
-&lt;li&gt;卒業研究タイトル：拡張現実技術を使用した技術習得支援システム&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     
   </channel>

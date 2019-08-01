@@ -7,7 +7,7 @@ canonifyurls = true
 
 [params]
     name = "Shota Saito"
-    description = "Master's course student at Yokohama National University"
+    description = "Ph.D course student at Yokohama National University"
     description2 = "Deep Neural Network / Machine Learning / Evolutionary Computation / Python / Chainer"
     email = "saito-shota-bt☆ynu.jp (☆→@)"
     year = 2018

@@ -36,7 +36,7 @@
 		<h1 id="logo" class="text-center">
 			<img class="img-circle" src="https://satuma-portfolio.xyz/images/icon.jpg" alt="">
 			<span class="title">Shota Saito</span>
-			<span class="tagline">Master&#39;s course student at Yokohama National University<br>Deep Neural Network / Machine Learning / Evolutionary Computation / Python / Chainer<br>
+			<span class="tagline">Ph.D course student at Yokohama National University<br>Deep Neural Network / Machine Learning / Evolutionary Computation / Python / Chainer<br>
 				<a href="">saito-shota-bt☆ynu.jp (☆→@)</a>
             </span>
 		</h1>
@@ -93,10 +93,37 @@
  						<h1 class="entry-title"><a href="https://satuma-portfolio.xyz/papers/10/" rel="bookmark">Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search</a></h1>
 					</header>
 					<div class="entry-content">
-						<p>Youhei Akimoto, Shinichi Shirakawa, Nozomu Yoshinari, Kento Uchida,
-<strong>Shota Saito</strong>, and Kouhei Nishida: Adaptive Stochastic Natural Gradient
-Method for One-Shot Neural Architecture Search, The 36th International
-Conference on Machine Learning (ICML) (2019) (Accepted).  <strong>※ Acceptance Rate: 773 / 3424 ≒ 22.6%</strong></p>
+						<p>Youhei Akimoto, Shinichi Shirakawa, Nozomu Yoshinari, Kento Uchida, <strong>Shota Saito</strong>, and Kouhei Nishida: Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search,Proceedings of the 36th International Conference on Machine Learning (ICML), Vol. 97 of PMLR, pp. 171-180 (2019).  <strong>※ Acceptance Rate: 22.6% ≒ 773 / 3424</strong></p>
+
+<h2 id="abstract">Abstract</h2>
+
+<p>High sensitivity of neural architecture search (NAS) methods against their input such as step-size (i.e., learning rate) and search space prevents practitioners from applying them out-of-the-box to their own problems, albeit its purpose is to automate a part of tuning process. Aiming at a fast, robust, and widely-applicable NAS, we develop a generic optimization framework for NAS. We turn a coupled optimization of connection weights and neural architecture into a differentiable optimization by means of stochastic relaxation. It accepts arbitrary search space (widely-applicable) and enables to employ a gradient-based simultaneous optimization of weights and architecture (fast). We propose a stochastic natural gradient method with an adaptive step-size mechanism built upon our theoretical investigation (robust). Despite its simplicity and no problem-dependent parameter tuning, our method exhibited near state-of-the-art performances with low computational budgets both on image classification and inpainting tasks.</p>
+
+<h2 id="paper">Paper</h2>
+
+<ul>
+<li><a href="http://proceedings.mlr.press/v97/akimoto19a.html">PMLR</a></li>
+<li><a href="https://arxiv.org/abs/1905.08537">ArXiv</a></li>
+<li><a href="https://github.com/shirakawas/ASNG-NAS">Code on GitHub</a></li>
+</ul>
+
+<h2 id="citation">Citation</h2>
+
+<pre><code>@InProceedings{pmlr-v97-akimoto19a,
+  title = {{Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search}},
+  author = {Akimoto, Youhei and Shirakawa, Shinichi and Yoshinari, Nozomu and Uchida, Kento and Saito, Shota and Nishida, Kouhei},
+  booktitle = {Proceedings of the 36th International Conference on Machine Learning},
+  pages = {171--180},
+  year = {2019},
+  editor = {Chaudhuri, Kamalika and Salakhutdinov, Ruslan},
+  volume = {97},
+  series = {Proceedings of Machine Learning Research},
+  address = {Long Beach, California, USA},
+  month = {09--15 Jun},
+  publisher = {PMLR},
+  url = {http://proceedings.mlr.press/v97/akimoto19a.html},
+}
+</code></pre>
 					</div>
 				</article>
 

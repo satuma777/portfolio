@@ -6,14 +6,27 @@
     <description>Recent content in Services on Shota Saito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>CJK</language>
+    <lastBuildDate>Thu, 04 Jul 2019 21:12:00 +0000</lastBuildDate>
     
 	<atom:link href="https://satuma-portfolio.xyz/service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>博士後期課程｜Ph.D Course Student</title>
+      <link>https://satuma-portfolio.xyz/service/4_doctor_ja/</link>
+      <pubDate>Thu, 04 Jul 2019 21:12:00 +0000</pubDate>
+      
+      <guid>https://satuma-portfolio.xyz/service/4_doctor_ja/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2019.04 ~ ：&lt;a href=&#34;http://www.eis.ynu.ac.jp/category01/academic/information.html&#34;&gt;横浜国立大学大学院 環境情報学府 情報メディア環境学専攻 情報環境専攻&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;指導教員：&lt;a href=&#34;http://shiralab.ynu.ac.jp/shirakawa/&#34;&gt;白川真一&lt;/a&gt; 講師&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>修士（情報学）｜　Master of Informatics</title>
       <link>https://satuma-portfolio.xyz/service/3_master.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jul 2019 21:12:00 +0000</pubDate>
       
       <guid>https://satuma-portfolio.xyz/service/3_master.ja/</guid>
       <description>&lt;ul&gt;
@@ -26,7 +39,7 @@
     <item>
       <title>学士（工学）｜Bachelor of Engineering</title>
       <link>https://satuma-portfolio.xyz/service/2_bachelor.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jul 2019 21:12:00 +0000</pubDate>
       
       <guid>https://satuma-portfolio.xyz/service/2_bachelor.ja/</guid>
       <description>&lt;ul&gt;
@@ -39,7 +52,7 @@
     <item>
       <title>準学士（工学）｜Associate degree of Engineering</title>
       <link>https://satuma-portfolio.xyz/service/1_associate_degree.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2019 21:12:00 +0000</pubDate>
       
       <guid>https://satuma-portfolio.xyz/service/1_associate_degree.ja/</guid>
       <description>&lt;ul&gt;

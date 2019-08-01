@@ -3,6 +3,7 @@ title = "experiences & certifications"
 +++
 
 ### Work Experiences
+
 - 2019.04 ~ [スキルアップAI株式会社](https://www.skillupai.com) 講師＆機械学習エンジニア
   - [AIジェネラリスト基礎講座](https://www.skillupai.com/ai-generalist/)，[現場で使える現場で使える機械学習・データ分析基礎講座](https://www.skillupai.com/machine-learning/)，[現場で使えるディープラーニング基礎講座](https://www.skillupai.com/deep-learning/)，[ディープラーニング最新論文講座](https://www.skillupai.com/dl-paper/)などを担当
 - 2018.05 ~ 2019.03：[スキルアップAI株式会社](https://www.skillupai.com)にて，講師を請け負う

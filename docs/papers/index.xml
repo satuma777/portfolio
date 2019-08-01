@@ -6,10 +6,19 @@
     <description>Recent content in Papers on Shota Saito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>CJK</language>
-    <lastBuildDate>Sun, 19 May 2019 21:12:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2019 21:12:00 +0000</lastBuildDate>
     
 	<atom:link href="https://satuma-portfolio.xyz/papers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Controlling Model Complexity in Probabilistic Model-Based Dynamic Optimization of Neural Network Structures</title>
+      <link>https://satuma-portfolio.xyz/papers/11/</link>
+      <pubDate>Wed, 31 Jul 2019 21:12:00 +0000</pubDate>
+      
+      <guid>https://satuma-portfolio.xyz/papers/11/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Shota Saito&lt;/strong&gt; and Shinichi Shirakawa: Controlling Model Complexity in Probabilistic Model-Based Dynamic Optimization of Neural Network Structures, The 28th International Conference on Artificial Neural Networks (ICANN 2019) (Accepted as oral presentation).  &lt;strong&gt;※ Acceptance Rate for Oral Presentation:  24.3% ≒ 120 / 494&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search</title>
@@ -17,10 +26,7 @@
       <pubDate>Sun, 19 May 2019 21:12:00 +0000</pubDate>
       
       <guid>https://satuma-portfolio.xyz/papers/10/</guid>
-      <description>&lt;p&gt;Youhei Akimoto, Shinichi Shirakawa, Nozomu Yoshinari, Kento Uchida,
-&lt;strong&gt;Shota Saito&lt;/strong&gt;, and Kouhei Nishida: Adaptive Stochastic Natural Gradient
-Method for One-Shot Neural Architecture Search, The 36th International
-Conference on Machine Learning (ICML) (2019) (Accepted).  &lt;strong&gt;※ Acceptance Rate: 773 / 3424 ≒ 22.6%&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Youhei Akimoto, Shinichi Shirakawa, Nozomu Yoshinari, Kento Uchida, &lt;strong&gt;Shota Saito&lt;/strong&gt;, and Kouhei Nishida: Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search,Proceedings of the 36th International Conference on Machine Learning (ICML), Vol. 97 of PMLR, pp. 171-180 (2019).  &lt;strong&gt;※ Acceptance Rate: 22.6% ≒ 773 / 3424&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
