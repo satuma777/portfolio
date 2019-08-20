@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://satuma-portfolio.xyz/papers/12/</loc>
+    <lastmod>2019-08-19T21:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://satuma-portfolio.xyz/papers/11/</loc>
     <lastmod>2019-07-31T21:12:00+00:00</lastmod>
   </url>
@@ -78,10 +83,6 @@
   </url>
   
   <url>
-    <loc>https://satuma-portfolio.xyz/papers/12/</loc>
-  </url>
-  
-  <url>
     <loc>https://satuma-portfolio.xyz/award/</loc>
     <priority>0</priority>
   </url>
@@ -103,7 +104,7 @@
   
   <url>
     <loc>https://satuma-portfolio.xyz/papers/</loc>
-    <lastmod>2019-07-31T21:12:00+00:00</lastmod>
+    <lastmod>2019-08-19T21:12:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,7 +116,7 @@
   
   <url>
     <loc>https://satuma-portfolio.xyz/</loc>
-    <lastmod>2019-07-31T21:12:00+00:00</lastmod>
+    <lastmod>2019-08-19T21:12:00+00:00</lastmod>
   </url>
   
   <url>

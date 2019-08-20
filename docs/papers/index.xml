@@ -6,10 +6,19 @@
     <description>Recent content in Papers on Shota Saito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>CJK</language>
-    <lastBuildDate>Wed, 31 Jul 2019 21:12:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2019 21:12:00 +0000</lastBuildDate>
     
 	<atom:link href="https://satuma-portfolio.xyz/papers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Joint Optimization of Convolutional Neural Network and Image Preprocessing Selection for Embryo Grade Prediction in In Vitro Fertilization</title>
+      <link>https://satuma-portfolio.xyz/papers/12/</link>
+      <pubDate>Mon, 19 Aug 2019 21:12:00 +0000</pubDate>
+      
+      <guid>https://satuma-portfolio.xyz/papers/12/</guid>
+      <description>&lt;p&gt;Kento Uchida, &lt;strong&gt;Shota Saito&lt;/strong&gt;, Panca Dewi Pamungkasari, Yusei Kawai, Ita Fauzia Hanoum, Filbert Hilman Juwono and Shinichi Shirakawa: Joint Optimization of Convolutional Neural Network and Image Preprocessing Selection for Embryo Grade Prediction in In Vitro Fertilization, The 14th International Symposium on Visual Computing (ISVC 2019)  (Accepted as oral presentation).&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title> Controlling Model Complexity in Probabilistic Model-Based Dynamic Optimization of Neural Network Structures</title>
@@ -26,7 +35,7 @@
       <pubDate>Sun, 19 May 2019 21:12:00 +0000</pubDate>
       
       <guid>https://satuma-portfolio.xyz/papers/10/</guid>
-      <description>&lt;p&gt;Youhei Akimoto, Shinichi Shirakawa, Nozomu Yoshinari, Kento Uchida, &lt;strong&gt;Shota Saito&lt;/strong&gt;, and Kouhei Nishida: Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search,Proceedings of the 36th International Conference on Machine Learning (ICML), Vol. 97 of PMLR, pp. 171-180 (2019).  &lt;strong&gt;※ Acceptance Rate: 22.6% ≒ 773 / 3424&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Youhei Akimoto, Shinichi Shirakawa, Nozomu Yoshinari, Kento Uchida, &lt;strong&gt;Shota Saito&lt;/strong&gt;, and Kouhei Nishida: Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search, Proceedings of the 36th International Conference on Machine Learning (ICML), Vol. 97 of PMLR, pp. 171-180 (2019).  &lt;strong&gt;※ Acceptance Rate: 22.6% ≒ 773 / 3424&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -108,20 +117,6 @@
       
       <guid>https://satuma-portfolio.xyz/papers/1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;斉藤翔汰&lt;/strong&gt;，白川真一：適応的ノイズ分布を導入したDeep Neural Networkのための学習法，計測自動制御学会 システム・情報部門 第56回システム工学部会研究会，pp.26-32 (2017).&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://satuma-portfolio.xyz/papers/12/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://satuma-portfolio.xyz/papers/12/</guid>
-      <description>&lt;p&gt;title = &amp;ldquo; Joint Optimization of Convolutional Neural Network and Image Preprocessing Selection for Embryo Grade Prediction in &lt;em&gt;In Vitro&lt;/em&gt; Fertilization&amp;rdquo;
-date = &amp;ldquo;2019-08-20T21:12:00-00:00&amp;rdquo;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Kento Uchida, &lt;strong&gt;Shota Saito&lt;/strong&gt;, Panca Dewi Pamungkasari, Yusei Kawai, Ita Fauzia Hanoum, Filbert Hilman Juwono and Shinichi Shirakawa: Joint Optimization of Convolutional Neural Network and Image Preprocessing Selection for Embryo Grade Prediction in &lt;em&gt;In Vitro&lt;/em&gt; Fertilization, the 14th International Symposium on Visual Computing (ISVC 2019)  (Accepted as oral presentation).&lt;/p&gt;</description>
     </item>
     
   </channel>
